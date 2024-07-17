@@ -7,4 +7,5 @@ system's key features include user authentication, automated barrier control, ti
 fee calculation, email notification, and smart lighting control. This paper
 presents the detailed design, implementation, and evaluation of the proposed system,
 showcasing its effectiveness in addressing the challenges associated with traditional
-parking management systems.
+parking management systems.![Uploading image.png…]()
+
